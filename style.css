@@ -127,5 +127,9 @@ header div h1 {
 		padding: 0 10px;
 		width: calc(100vw - 20px);
 	}
+	
+	.meme h3 {
+		font-family: 'Anton', sans-serif;	
+	}
 
 }
